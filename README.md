@@ -20,3 +20,5 @@ Note: Its use is only applicable to comply with the requirement of Technical Pro
 Desarrollar una aplicación de escritorio con framework .net Core que al ejecutarla aparezca una pantalla donde el usuario pueda obtener una foto del estado actual de la maquina.
 
 
+[Test01](https://github.com/fcastril/test-aranda/blob/main/img-readme/test01.png)
+
