@@ -10,7 +10,7 @@ Este repositorio es para presentar la prueba técnica para Aranda Software.
 # Technical Test for Aranda Software
 This repository is to present the technical test for Aranda Software.
 
-**Date: **12-03-2021
+**Date:** 12-03-2021
 **Author:** Fabián Mauricio Castrillón Franco
 
 Note: Its use is only applicable to comply with the requirement of Technical Proof. Its dissemination or copying is prohibited
