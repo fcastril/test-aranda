@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test-arana.wpf", "test-arana.wpf\test-arana.wpf.csproj", "{FAB6395B-7524-453B-8678-BEF552F93AFE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{45FA00ED-22E8-445E-85A6-7C8AE7E7E10F} = {45FA00ED-22E8-445E-85A6-7C8AE7E7E10F}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test-arana.test", "test-arana.test\test-arana.test.csproj", "{45FA00ED-22E8-445E-85A6-7C8AE7E7E10F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAB6395B-7524-453B-8678-BEF552F93AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB6395B-7524-453B-8678-BEF552F93AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB6395B-7524-453B-8678-BEF552F93AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB6395B-7524-453B-8678-BEF552F93AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45FA00ED-22E8-445E-85A6-7C8AE7E7E10F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45FA00ED-22E8-445E-85A6-7C8AE7E7E10F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45FA00ED-22E8-445E-85A6-7C8AE7E7E10F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45FA00ED-22E8-445E-85A6-7C8AE7E7E10F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {110D56E7-59C3-4E5F-8658-1B6939DAC1C5}
+	EndGlobalSection
+EndGlobal
